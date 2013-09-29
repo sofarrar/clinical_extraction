@@ -1,7 +1,7 @@
 README
 INSTALL/SETUP
 Requirements: Both cTAKES and MetaMap require JDK 1.6+
-1. unzip ctakes_medphora.zip to ctakes folder (called $CT)
+1. unzip apache-ctakes-3.0.0-incubating.zip to ctakes folder (called $CT)
    easier to use my installation, located in github. There is some customization to run from command line.
 2. install MetaMap
    a. unzip public_mm_linux_main_2013.tar.bz2 to metamap folder (called $MM)
